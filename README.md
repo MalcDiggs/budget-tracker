@@ -14,3 +14,4 @@ https://infinite-ridge-37353.herokuapp.com/
 
 ## Github Repo link
 
+https://github.com/MalcDiggs/budget-tracker.git
